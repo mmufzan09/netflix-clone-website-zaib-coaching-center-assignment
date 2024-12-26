@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
       <>
-      <footer className="text-white w-screen bg-black flex flex-col  gap-2 px-[230px] mx-auto py-[100px] lg:px[280px]">
+      <footer className="text-white w-screen bg-black flex flex-col  gap-2 px-[230px] mx-auto py-[100px] ">
         <div className="py-[20px] text-left">Questions? Call 000-800-919-1694</div>
         <div className="flex felx-row gap-24 ">
           <div className="footer-item underline right-[-10px]">

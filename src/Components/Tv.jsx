@@ -4,7 +4,7 @@ const Tv = () => {
   return (
       <>
           <section className="flex justify-center items-center w-full  mx-auto text-white bg-black border-b-8  border-gray-500">
-        <div className='first  flex flex-wrap'>
+        <div className=''>
           <span className="block text-[44px] font-bold">
             Enjoy on your <br />
             TV

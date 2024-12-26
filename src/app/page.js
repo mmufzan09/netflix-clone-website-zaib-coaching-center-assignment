@@ -1,16 +1,16 @@
 
-import Cartoon from "@/Components/Cartoon";
-import FAQs from "@/Components/FAQs";
-import Mobile from "@/Components/Mobile";
-import Movie from "@/Components/Movie";
-import Tv from "@/Components/Tv";
+import Cartoon from "@/components/Cartoon";
+import FAQs from "@/components/FAQs";
+import Mobile from "@/components/Mobile";
+import Movie from "@/components/Movie";
+import Tv from "@/components/Tv";
 import React from "react";
 
 const page = () => {
   return (
     <>
-   <main className="bg-img h-screen bg-center  bg-no-repeat bg-cover max-h-[644px] relative border-b-8 border-grey">
-        <div className="h-[644px] w-full opacity-[0.69] absolute top-0 bg-black"></div>
+      <main className="bg-img h-screen bg-center  bg-no-repeat bg-cover max-h-[644px] relative border-b-8 border-grey">
+        <div className="h-[644px] w-full opacity-[0.69] absolute top-0 bg-black" />
         <div className="font-martel-sans h-[calc(100%-1px)] flex items-center justify-center flex-col text-white relative top-12 gap-6 px-0 py-8">
           <span className="font-poppins font-bold text-[44px] text-center ">
             Enjoy big movies, hit series and more from ₹ 149.
@@ -41,13 +41,13 @@ const page = () => {
       <Mobile />
       <Movie />
       <Cartoon />
-      <FAQs/>
-     
-      
-      
-      
-      
-      
+      <FAQs />
+
+
+
+
+
+
     </>
   );
 };
