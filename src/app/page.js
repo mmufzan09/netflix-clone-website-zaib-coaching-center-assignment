@@ -42,7 +42,7 @@ const page = () => {
       <Movie />
       <Cartoon />
       <FAQs />
-
+      
 
 
 
