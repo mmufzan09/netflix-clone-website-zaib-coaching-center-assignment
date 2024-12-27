@@ -41,7 +41,7 @@ const page = () => {
       <Mobile />
       <Movie />
       <Cartoon />
-      <FAQs />
+      <FAQs/>
       
 
 
