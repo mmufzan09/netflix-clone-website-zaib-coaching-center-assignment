@@ -1,9 +1,9 @@
 
-import Cartoon from "@/components/Cartoon.jsx";
-import FAQs from "@/components/FAQs.jsx";
-import Mobile from "@/components/Mobile.jsx";
-import Movie from "@/components/Movie.jsx";
-import Tv from "@/components/Tv.jsx";
+import Cartoon from "@/Components/Cartoon.jsx";
+import FAQs from "@/Components/FAQs.jsx";
+import Mobile from "@/Components/Mobile.jsx";
+import Movie from "@/Components/Movie.jsx";
+import Tv from "@/Components/Tv.jsx";
 import React from "react";
 
 const page = () => {
